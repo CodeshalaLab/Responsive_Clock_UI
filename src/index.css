@@ -55,7 +55,6 @@ body {
   font-family: var(--body-font);
   background-color: var(--body-color);
   color: var(--text-color);
-  transition: .4s; /* For dark mode animation */
 }
 
 a {
